@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜行性の生き物3匹",
+  "base_artist": "ゆらゆら帝国",
+  "createdAt": "2026-03-31T15:21:27.001307Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜行性の生き物3匹",
+      "artist": "Yura Yura Teikoku",
+      "has_synced": true,
+      "path": "select/01_夜行性の生き物3匹_Yura_Yura_Teikoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜行性の生き物3匹",
+      "artist": "ゆらゆら帝国",
+      "has_synced": false,
+      "path": "select/pl_01_夜行性の生き物3匹_ゆらゆら帝国.txt"
+    }
+  ]
+}
